@@ -57,8 +57,8 @@ mis primeros desarrollos tecnologicos en un trabajo
 ### <u> IDEs/Editores:</u>
 <span><img src = "https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio logo"  title="Android Studio" height="25"/></span>
 &nbsp;
-<span><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual-studio-code logo"  title="visual-studio-code" </span>
-&nbsp;height="25"/>
+<span><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual-studio-code logo"  title="visual-studio-code" height="25"/></span>
+&nbsp;
 <span><img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visual-studio logo"  title="visual-studio" height="25"/></span>
 &nbsp;
 <span><img src = "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeansIDE logo"  title="NetBeansIDE" height="25"/></span>
