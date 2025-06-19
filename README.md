@@ -28,6 +28,7 @@ de proyectos de innovación tecnológica y el aprendizaje de nuevas tecnologias
 <br/>
 <br/>
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966](https://github.com/user-attachments/assets/280bf0d5-16fe-46c1-95d6-297d306c0299)
 
 
 
@@ -37,24 +38,6 @@ de proyectos de innovación tecnológica y el aprendizaje de nuevas tecnologias
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CV - Santiago Domínguez Agustín</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    section {
-      margin-bottom: 30px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-  </style>
 </head>
 <body>
   <h1>Santiago Domínguez Agustín</h1>
