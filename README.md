@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Santy0-0/Santy0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">soy, Santiago Dominguez Agustin </h1>
 
 <br/>
@@ -24,11 +8,34 @@ Here are some ideas to get you started:
 
 Persona responsable y flexible con muchas ganas de aprender nuevas
 cosas todo el tiempo de forma autodidacta, con un gusto por el desarrollo
-de proyectos de innovación tecnológica y el aprendizaje de nuevas tecnologias
+de proyectos de innovación tecnológica y muy emocionado por comenzar con 
+mis primeros desarrollos tecnologicos en un trabajo
 <br/>
 <br/>
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966](https://github.com/user-attachments/assets/280bf0d5-16fe-46c1-95d6-297d306c0299)
+
+## 🚀💻 Technologies & Tools
+
+### <u> Languages: </u>
+
+<br>
+
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
+</span>
+&nbsp;
+<span>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
+</span>
+&nbsp;
+<br>
 
 
 
