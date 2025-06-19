@@ -4,18 +4,20 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-Persona responsable y flexible con muchas ganas de aprender nuevas
-cosas todo el tiempo de forma autodidacta, con un gusto por el desarrollo
+
+<p align="center"> <samp>Estudiante de Ingenieria en Sistemas Computacionales 📚📈.</samp></p>
+  
+Persona responsable, flexible y competitiva con muchas ganas de aprender 
+nuevas cosas todo el tiempo de forma autodidacta, con un gusto por el desarrollo
 de proyectos de innovación tecnológica y muy emocionado por comenzar con 
 mis primeros desarrollos tecnologicos en un trabajo
 <br/>
 <br/>
 
 
-## 🚀💻 Technologies y herramientas
+## 🚀💻 Technologias y herramientas
 
 ### <u> Languages: </u>
-<br>
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -92,7 +94,7 @@ mis primeros desarrollos tecnologicos en un trabajo
   <a href="https://github.com/https://github.com/pulkit-30" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/pulkit-gupta-707459214" target="_blank">
+  <a href="www.linkedin.com/in/santiago-dominguez-agustin-agustin" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100013565554132" target="_blank">
