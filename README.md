@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">soy, Santiago Dominguez Agustin </h1>
 
 <br/>
@@ -14,10 +12,9 @@ mis primeros desarrollos tecnologicos en un trabajo
 <br/>
 
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Technologies y herramientas
 
 ### <u> Languages: </u>
-
 <br>
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -40,20 +37,7 @@ mis primeros desarrollos tecnologicos en un trabajo
 &nbsp;
 <span><img src = "https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
 &nbsp;
-<br>
-### <u> Sistema manejador de base de datos (SGBD):</u>
-<span><img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo"  title="MongoDB" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
-&nbsp;
-### <u> Diseño:</u>
-<span><img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva logo"  title="Canva" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp logo"  title="SketchUp" height="25"/></span>
-&nbsp;
-### <u> Cursos:</u>
-<span><img src = "https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy logo"  title="Udemy" height="25"/></span>
-&nbsp;
+
 ### <u> IDEs/Editores:</u>
 <span><img src = "https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio logo"  title="Android Studio" height="25"/></span>
 &nbsp;
@@ -64,106 +48,63 @@ mis primeros desarrollos tecnologicos en un trabajo
 <span><img src = "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeansIDE logo"  title="NetBeansIDE" height="25"/></span>
 &nbsp;
 
+### <u> Sistema manejador de base de datos (SGBD):</u>
+<span><img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo"  title="MongoDB" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
+&nbsp;
 
+
+### <u> Sistemas operativos:</u>
+<span><img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/></span>
+&nbsp;
 <br>
 
-<span>
-<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
-</span>
+### <u> Diseño:</u>
+<span><img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva logo"  title="Canva" height="25"/></span>
 &nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/>
-</span>
+<span><img src = "https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp logo"  title="SketchUp" height="25"/></span>
 &nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
 
+### <u> Cursos:</u>
+<span><img src = "https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy logo"  title="Udemy" height="25"/></span>
+&nbsp;
+
+
+
+
+<section>
+  <h2>Proyectos de Innovación</h2>
+  <ul>
+    <li><strong>⚡ Cargador inteligente – Largelive</strong> (Innova TecNM 2024, nivel local y regional)</li>
+    <li><strong>⚡Multicontacto inteligente – +Pila</strong> (Innova TecNM 2025)</li>
+    <li><strong>⚡Juguetes educativos – cr3anDote</strong> (Innova TecNM 2025, bienes de consumo)</li>
+  </ul>
+</section>
 <br>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV - Santiago Domínguez Agustín</title>
-</head>
-<body>
-  <h1>Santiago Domínguez Agustín</h1>
-  <p><strong>Carrera:</strong> Ingeniería en Sistemas Computacionales</p>
-  <p><strong>Institución:</strong> Instituto Tecnológico de Tehuacán (2021–2026)</p>
-  <p><strong>Ubicación:</strong> Zinacatepec, Puebla, México</p>
-  <p><strong>Correo:</strong> santidomagsa@gmail.com</p>
-  <p><strong>Teléfono:</strong> 2361214967</p>
-  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/santiago-dominguez-agustin-22aba736a" target="_blank">Perfil</a></p>
-
-  <section>
-    <h2>Perfil</h2>
-    <p>Persona responsable, autodidacta y con gusto por la innovación tecnológica. Poseo habilidades en liderazgo, comunicación asertiva y trabajo en equipo, con experiencia en desarrollo de proyectos colaborativos y de impacto.</p>
-  </section>
-
-  <section>
-    <h2>Habilidades</h2>
-    <ul>
-      <li>Liderazgo</li>
-      <li>Comunicación asertiva</li>
-      <li>Resolución de problemas</li>
-      <li>Autodidacta</li>
-      <li>Trabajo en equipo</li>
-      <li>Inglés B2</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Lenguajes de Programación</h2>
-    <ul>
-      <li>Java</li>
-      <li>Python</li>
-      <li>HTML, CSS, JavaScript</li>
-      <li>C, C++</li>
-      <li>PHP</li>
-      <li>R</li>
-      <li>Ensamblador (básico)</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Herramientas y Tecnologías</h2>
-    <ul>
-      <li>Cisco Networking</li>
-      <li>Android Studio</li>
-      <li>Visual Studio</li>
-      <li>Arduino</li>
-      <li>MySQL, MongoDB</li>
-      <li>Linux</li>
-      <li>SketchUp, PrusaSlicer</li>
-      <li>Instalaciones eléctricas residenciales</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Cursos y Certificaciones</h2>
-    <ul>
-      <li>Taller de IoT (30 horas)</li>
-      <li>Taller de Robótica (30 horas)</li>
-      <li>MX Habilidades para el Empleo - SECTEI</li>
-      <li>AWS Cloud Practitioner Essentials</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Proyectos de Innovación</h2>
-    <ul>
-      <li><strong>Cargador inteligente – Largelive</strong> (Innova TecNM 2024, nivel local y regional)</li>
-      <li><strong>Multicontacto inteligente – +Pila</strong> (Innova TecNM 2025)</li>
-      <li><strong>Juguetes educativos – cr3anDote</strong> (Innova TecNM 2025, bienes de consumo)</li>
-    </ul>
-  </section>
-</body>
-</html>
+## Contactame 🚀
+<div align="center">
+  <a href="https://github.com/https://github.com/pulkit-30" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/pulkit-gupta-707459214" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100013565554132" target="_blank">
+  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
+  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
+  <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+</div>
