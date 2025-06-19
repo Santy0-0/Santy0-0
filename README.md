@@ -12,6 +12,7 @@ nuevas cosas todo el tiempo de forma autodidacta, con un gusto por el desarrollo
 de proyectos de innovación tecnológica y muy emocionado por comenzar con 
 mis primeros desarrollos tecnologicos en un trabajo
 <br/>
+🎨Pintor y creador de 💡lamparas como pasatiempo
 <br/>
 
 
@@ -89,24 +90,27 @@ mis primeros desarrollos tecnologicos en un trabajo
 </section>
 <br>
 
-## Contactame 🚀
+## Contactame 📫
 <div align="center">
   <a href="https://github.com/https://github.com/pulkit-30" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="www.linkedin.com/in/santiago-dominguez-agustin-agustin" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://www.linkedin.com/in/santiago-dominguez-agustin-agustin" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100013565554132" target="_blank">
+  <a href="https://www.facebook.com/santiago.dominguez.agustin" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
+  <a href="https://www.instagram.com/santiago_dominguez0_0?igsh=MXVmZTk0bWw2NjlzYw==" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
-  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/https://www.instagram.com/i_pulkit_gupta/" target="_blank">
-  <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
 </div>
+<a href="https://wa.me/5212361214967" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <span>2361214967</span>
+</a>
+<br>
+<a href="mailto:santidomagsa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <span>santidomagsa@gmail.com</span>
+</a>
