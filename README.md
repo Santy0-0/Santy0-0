@@ -30,10 +30,6 @@ mis primeros desarrollos tecnologicos en un trabajo
 &nbsp;
 <span><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/></span>
 &nbsp;
-<span><img src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
-&nbsp;
 
 ### <u> IDEs/Editores:</u>
 <span><img src = "https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio logo"  title="Android Studio" height="25"/></span>
