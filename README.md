@@ -30,12 +30,6 @@ mis primeros desarrollos tecnologicos en un trabajo
 &nbsp;
 <span><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/></span>
 &nbsp;
-<span><img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo"  title="C" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo"  title="C++" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R logo"  title="R" height="25"/></span>
-&nbsp;
 <span><img src = "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
 &nbsp;
 <span><img src = "https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
