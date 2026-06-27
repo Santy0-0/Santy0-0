@@ -12,7 +12,6 @@ nuevas cosas todo el tiempo de forma autodidacta, con un gusto por el desarrollo
 de proyectos de innovación tecnológica y muy emocionado por comenzar con 
 mis primeros desarrollos tecnologicos en un trabajo
 <br/>
-🎨Pintor y creador de 💡lamparas como pasatiempo
 <br/>
 
 
