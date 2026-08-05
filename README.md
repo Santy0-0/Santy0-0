@@ -44,7 +44,7 @@ Actualmente busco mi primera oportunidad profesional en el área de análisis de
 
 <li>✔ Databases and SQL for Data Science with Python - IBM</li>
 
-<li>✔ Python para Ciencia de Datos</li>
+<li>✔ Python para Ciencia de Datos - DEV.F</li>
 
 </ul>
 
