@@ -1,83 +1,98 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">soy, Santiago Dominguez Agustin </h1>
+<h1 align="center">
+👋 ¡Hola! Soy Santiago Domínguez Agustín
+</h1>
 
-<br/>
+<h3 align="center">
+Ingeniero en Sistemas Computacionales
+</h3>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<h3 align="center">
+Analista de Datos | Python | SQL | Power BI
+</h3>
 
+<p align="center">
+Apasionado por el análisis de datos y el aprendizaje continuo.
+Disfruto transformar datos en información útil mediante Python, SQL y Power BI para apoyar la toma de decisiones.
+Actualmente busco mi primera oportunidad profesional en el área de análisis de datos.
+</p>
 
-<p align="center"> <samp>Estudiante de Ingenieria en Sistemas Computacionales 📚📈.</samp></p>
-  
-Persona responsable, flexible y competitiva con muchas ganas de aprender 
-nuevas cosas todo el tiempo de forma autodidacta, con un gusto por el desarrollo
-de proyectos de innovación tecnológica y muy emocionado por comenzar con 
-mis primeros desarrollos tecnologicos en un trabajo
-<br/>
-<br/>
+<h2>🙋 Sobre mí</h2>
 
+<ul>
+<li>🎓 Ingeniero en Sistemas Computacionales.</li>
 
-## 🚀💻 Technologias y herramientas
+<li>📊 Interesado en el análisis de datos y Business Intelligence.</li>
 
-### <u> Languages: </u>
+<li>🐍 Experiencia en Python para análisis y automatización.</li>
 
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/></span>
-&nbsp;
+<li>🗄️ Manejo de SQL para consultas y gestión de bases de datos.</li>
 
-### <u> IDEs/Editores:</u>
-<span><img src = "https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio logo"  title="Android Studio" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual-studio-code logo"  title="visual-studio-code" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visual-studio logo"  title="visual-studio" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeansIDE logo"  title="NetBeansIDE" height="25"/></span>
-&nbsp;
+<li>📈 Desarrollo de dashboards interactivos con Power BI.</li>
 
-### <u> Sistema manejador de base de datos (SGBD):</u>
-<span><img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo"  title="MongoDB" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo"  title="MySQL" height="25"/></span>
-&nbsp;
+<li>🤖 Conocimientos en Machine Learning con Scikit-Learn.</li>
 
+<li>📚 Siempre aprendiendo nuevas tecnologías relacionadas con ciencia de datos.</li>
 
-### <u> Sistemas operativos:</u>
-<span><img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/></span>
-&nbsp;
-<br>
+<li>💼 Buscando una oportunidad como Analista de Datos Jr.</li>
+</ul>
 
-### <u> Diseño:</u>
-<span><img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva logo"  title="Canva" height="25"/></span>
-&nbsp;
-<span><img src = "https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp logo"  title="SketchUp" height="25"/></span>
-&nbsp;
+<h2>🏆 Certificaciones</h2>
 
-### <u> Cursos:</u>
-<span><img src = "https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy logo"  title="Udemy" height="25"/></span>
-&nbsp;
+<ul>
 
+<li>✔ Power BI - Santander Open Academy</li>
 
+<li>✔ Databases and SQL for Data Science with Python - IBM</li>
 
+<li>✔ Python para Ciencia de Datos</li>
 
-<section>
-  <h2>Proyectos de Innovación</h2>
-  <ul>
-    <li><strong>⚡ Cargador inteligente – Largelive</strong> (Innova TecNM 2024, nivel local y regional)</li>
-    <li><strong>⚡Multicontacto inteligente – +Pila</strong> (Innova TecNM 2025)</li>
-    <li><strong>⚡Juguetes educativos – cr3anDote</strong> (Innova TecNM 2025, bienes de consumo)</li>
-  </ul>
-</section>
-<br>
+</ul>
+
+<h2>🚀 Proyectos destacados</h2>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3>📊 Dashboard en Power BI</h3>
+
+Visualización de indicadores mediante gráficos interactivos y KPIs.
+
+</td>
+
+<td width="50%">
+
+<h3>🐍 Análisis de datos con Python</h3>
+
+Limpieza, exploración y visualización de datos utilizando Pandas y Matplotlib.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<h3>🗄️ Consultas SQL</h3>
+
+Consultas complejas utilizando JOIN, GROUP BY, HAVING y subconsultas.
+
+</td>
+
+<td>
+
+<h3>🤖 Machine Learning</h3>
+
+Implementación de modelos de clasificación y clustering con Scikit-Learn.
+
+</td>
+
+</tr>
+
+</table>
 
 ## Contactame 📫
 <div align="center">
