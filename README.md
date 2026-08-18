@@ -40,11 +40,11 @@ Actualmente busco mi primera oportunidad profesional en el área de análisis de
 
 <ul>
 
-<li>✔ Power BI - Santander Open Academy</li>
+<li>Power BI - Santander Open Academy</li>
 
-<li>✔ Databases and SQL for Data Science with Python - IBM</li>
+<li>Databases and SQL for Data Science with Python - IBM</li>
 
-<li>✔ Python para Ciencia de Datos - DEV.F</li>
+<li>Python para Ciencia de Datos - DEV.F</li>
 
 </ul>
 
