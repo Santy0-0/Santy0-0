@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 ¡Hola! Soy Santiago Domínguez Agustín
+¡Hola! Soy Santiago Domínguez Agustín
 </h1>
 
 <h3 align="center">
@@ -16,7 +16,7 @@ Disfruto transformar datos en información útil mediante Python, SQL y Power BI
 Actualmente busco mi primera oportunidad profesional en el área de análisis de datos.
 </p>
 
-<h2>🙋 Sobre mí</h2>
+<h2>Sobre mí</h2>
 
 <ul>
 <li>🎓 Ingeniero en Sistemas Computacionales.</li>
@@ -36,7 +36,7 @@ Actualmente busco mi primera oportunidad profesional en el área de análisis de
 <li>💼 Buscando una oportunidad como Analista de Datos Jr.</li>
 </ul>
 
-<h2>🏆 Certificaciones</h2>
+<h2>Certificaciones</h2>
 
 <ul>
 
@@ -48,7 +48,7 @@ Actualmente busco mi primera oportunidad profesional en el área de análisis de
 
 </ul>
 
-<h2>🚀 Proyectos destacados</h2>
+<h2>Proyectos destacados</h2>
 
 <table>
 
